@@ -1,8 +1,8 @@
 ![logo](https://github.com/shashwat2903/shashwat2903/blob/main/SHASHWAT.jpg)
 <h1 align="center">Hi 👋, I'm Shashwat Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IVPhccZVPoTEPsXBrYKetJZ3b0KQUDuI1g&s">
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IVPhccZVPoTEPsXBrYKetJZ3b0KQUDuI1g&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat2903&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat2903" /> </p>
 
@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashwat kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwat kumar" height="30" width="40" /></a>
-<a href="https://fb.com/shashwat sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashwat sharma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shashwat kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashwat kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashwat kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat kumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shashwat kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashwat kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashwat-kumar-b3b650259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwat-kumar-b3b650259" height="30" width="40" /></a>
+<a href="https://fb.com/shashwat.sharma.750983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashwat.sharma.750983" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@shashwat29kr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shashwat29kr1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shashwat_kr_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat_kr_29" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shashwa8rae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashwa8rae" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat2903&show_icons=true&locale=en" alt="shashwat2903" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat2903&" alt="shashwat2903" /></p>
+
