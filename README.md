@@ -1,6 +1,6 @@
 ![logo](https://github.com/shashwat2903/shashwat2903/blob/main/SHASHWAT.jpg)
-<h1 align="center">Hi 👋, I'm Shashwat Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi 👋 I'm Shashwat Kumar</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IVPhccZVPoTEPsXBrYKetJZ3b0KQUDuI1g&s">
 
